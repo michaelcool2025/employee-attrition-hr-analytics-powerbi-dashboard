@@ -27,7 +27,9 @@ Key steps included:
 * Building relationships between tables
 * Structuring the data to support time-based analysis
 * Creating a clean model for reporting and insights
+  
 ![Relationships](<Relationships.png>)
+
 ---
 
 ## DAX Calculations
@@ -45,7 +47,9 @@ I also used advanced DAX techniques such as:
 * **USERELATIONSHIP()** to activate inactive relationships for time-based calculations.
 * Custom **measures** to calculate KPIs and performance indicators.
 * Aggregations and conditional calculations to better analyze employee behavior.
+  
 ![Measures](<Total -measures.png>)
+
 ---
 
 ## Dashboard Structure
@@ -60,6 +64,7 @@ Provides a high-level summary of the workforce including:
 * Employee distribution
 
 This page allows HR managers to quickly understand the overall company workforce situation.
+
 ![Overview](<Screenshot 2026-03-14 002351.png>)
 
 ---
@@ -74,6 +79,7 @@ This section focuses on employee demographic data such as:
 * Marital status
 
 These insights help understand the structure of the workforce and identify patterns across different employee groups.
+
 ![Demographics](<Screenshot 2026-03-14 203444.png>)
 
 
@@ -105,6 +111,7 @@ Key insights include:
 * Attrition trends over time
 
 These insights help identify potential retention issues and workforce risks.
+
 ![Attrition](<Screenshot 2026-03-14 203504.png>)
 
 ---
