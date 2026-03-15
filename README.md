@@ -138,3 +138,14 @@ These insights can help HR teams take proactive steps to improve employee retent
 * Data Visualization
 * HR Analytics
 
+---
+##Data Source 
+
+## Data Files
+
+- [DimDate.txt](DimDate.txt)
+- [EducationLevel.csv](EducationLevel.csv)
+- [Employee.csv](Employee.csv)
+- [PerformanceRating.csv](PerformanceRating.csv)
+- [RatingLevel.csv](RatingLevel.csv)
+- [SatisfiedLevel.csv](SatisfiedLevel.csv)
