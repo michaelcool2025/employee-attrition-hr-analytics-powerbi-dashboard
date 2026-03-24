@@ -1,4 +1,4 @@
-# employee-attrition-hr-analytics-powerbi-dashboard
+# Employee-attrition-hr-analytics-powerbi-dashboard
 # HR Analytics Dashboard – Power BI
 
 This is an end-to-end HR analytics project I built using Power BI to explore employee data and understand the key drivers behind employee attrition.
